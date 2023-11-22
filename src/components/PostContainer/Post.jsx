@@ -1,3 +1,5 @@
+import { useTranslation, Trans } from 'react-i18next';
+
 const Post = ({
   titulo,
   info,
@@ -17,12 +19,14 @@ const Post = ({
   info4b,
   info4c,
 }) => {
+  const { t } = useTranslation()
+
   return (
     <div className="infoPost">
       <br />
-      <h2>{titulo}</h2>
+      <h2>{t(titulo)}</h2>
       <br />
-      <h6>{info}</h6>
+      <h6>{t(info)}</h6>
       <img className="img-fluid" src={img} alt="" />
       <h4>{titulo2}</h4>
       <ul>

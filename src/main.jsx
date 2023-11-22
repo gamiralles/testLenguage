@@ -6,6 +6,7 @@ import PostContainer from './components/PostContainer/PostContainer.jsx'
 import Footer from '../src/components/Footer.jsx'
 import SetLenguage from './components/SetLenguage.jsx'
 import './index.scss'
+import './lenguage/i18n';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

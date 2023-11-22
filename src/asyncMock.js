@@ -3,8 +3,8 @@ const post = [
     id: "2",
     category: "moreno",
     img: "/GPMoreno.jpeg",
-    titulo: "titulo",
-    info: "El Glaciar Perito Moreno es uno de los principales atractivos turísticos de la Patagonia Argentina. Se encuentra en el Parque Nacional Los Glaciares, en la provincia de Santa Cruz. Es uno de los glaciares más grandes del mundo, con una superficie de 250 kilómetros cuadrados.",
+    titulo: "moreno.titleGL",
+    info: "moreno.infoGLa",
     titulo2: "Puntos Importantes",
     info2a:
       "Se encuentra a solo 80 kilómetros de la ciudad de El Calafate, lo que lo hace un destino turístico muy popular.",
