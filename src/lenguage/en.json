@@ -1,0 +1,105 @@
+{
+    "en": {
+      "moreno": {
+        "titleGL": "Perito Moreno Glacier",
+  
+        "infoGLa": "Perito Moreno Glacier is one of the main tourist attractions in Argentina's Patagonia region. It is located in Los Glaciares National Park, in the province of Santa Cruz. It is one of the largest glaciers in the world, with an area of 250 square kilometers.",
+  
+        "piGL": "Important points:",
+  
+        "infoPiGla":"It is located just 80 kilometers from the city of El Calafate, making it a very popular tourist destination.",
+  
+        "infoPiGlb":"It advances at a speed of 2 meters per day, which generates a unique phenomenon in the world: the detachment of huge blocks of ice, which fall into Lake Argentino with a deafening roar.",
+  
+        "infoPiGlc":"The best time to visit it is during the summer months, when temperatures are higher and the weather is more stable.",
+  
+        "qhGL":"What to do?",
+  
+        "infoQhGla":"Walk along the walkways. Enter the forest, allowing you to experience the magic of the glacier from a unique perspective with excellent panoramic views.",
+  
+        "infoQhGlb":"Minitrekking on the glacier. Walk on the ice, experiencing the power and strength of nature.",
+  
+        "infoQhGlc":"Navigation of all the glaciers. Enjoy a boat ride on Lake Argentino, observing the glaciers Perito Moreno, Upsala, Spegazzini and others up close, enjoying the panoramic views of Patagonia.",
+  
+        "infoQhGld":"Blue Safari, navigate in search of native fauna, observing penguins, sea lions, birds and other animals. Enjoy an unforgettable natural spectacle.",
+  
+        "infoQhGle":"Kayaking in front of the glacier. Paddle among the icebergs that break off from the glacier, feeling the excitement of being surrounded by ice, a unique experience in Patagonia.",
+  
+        "nsGl":"Our services:",
+  
+        "infoNsGla":"Transfer to the national park.",
+  
+        "infoNsGlb":"Transfer to Punta Bandera port.",
+  
+        "infoNsGlc":"Transfer to Bajo las Sombras port."
+      },
+  
+      "Chalten": {
+        "titleCh":"El Chalten",
+  
+        "infoCh":"El Chalten is a town located north of Los Glaciares National Park, in the province of Santa Cruz. It is a popular destination for hikers, mountaineers, and nature lovers.",
+  
+        "piCh":"Important points:",
+  
+        "infoPiCha":"El Chalten is the base for exploring Cerro Fitz Roy, one of the most emblematic mountains in Patagonia.",
+  
+        "infoPiChb":"The town also offers a variety of other activities, such as hiking, fishing, kayaking, and rafting.",
+  
+        "infoPiChc":"The best time to visit El Chalten is during the summer months, when temperatures are higher and the weather is more stable.",
+  
+        "qhCh":"What to do?",
+  
+        "infoQhCha":"At 12.5 kilometers from El Chalten, there is Laguna de los Tres, one of the most popular hikes in Patagonia. With an average difficulty, the trail offers privileged views of the imposing Cerro Fitz Roy, one of the most emblematic summits in the region.",
+  
+        "infoQhChb":"At 9.5 kilometers from El Chalten, there is Laguna Torre, another of the most popular hikes in the region. With an average difficulty, the trail offers views of the base of Cerro Torre, one of the most challenging mountains in the world.",
+  
+        "infoQhChc":"At 4 kilometers from El Chalten, there is Laguna Capri, a quiet place ideal for relaxing and enjoying nature. With a low difficulty, the trail offers the view of a blue lagoon surrounded by native forest.",
+  
+        "infoQhChd":"At 3.5 kilometers from El Chalten, there is Chorrillo del Salto, a beautiful melting waterfall. With a low difficulty, the trail offers views of the waterfall and the native forest.",
+  
+        "infoQhChe":"At 37 kilometers from El Chalten, there is Lago del Desierto, an imposing mirror of crystal-clear water surrounded by a natural landscape of hills, mountains, and forest.",
+  
+        "nsCh":"Our services:",
+  
+        "infoNsCha":"Full Day Chalten, round trip day leaving from El Calafate",
+  
+        "infoNsChb":"Airport transfer FTE - El Chalten",
+  
+        "infoNsChc":"Transfer EL Calafate - El Chalten"
+      },
+  
+      "austral": {
+        "titleAu":"Carretera Austral",
+  
+        "infoAu":"The Carretera Austral is a 1,240-kilometer route that runs through Chilean Patagonia. It is one of the most scenic routes in the world, as it passes through forests, mountains, glaciers, and lakes.",
+  
+        "piAu":"Important points:",
+  
+        "infoPiAua":"It starts its journey in the city of El Calafate and ends in the city of Bariloche.",
+  
+        "infoPiAub":"It crosses the iconic Ruta Nacional 40 of Argentina and the Ruta Austral 7 of Chilean Patagonia.",
+  
+        "infoPiAuc":"The best time to do it is during the summer months, when temperatures are higher and the weather is more stable.",
+  
+        "qhAu":"What to do?",
+  
+        "infoQhAua":"Sendero de Colores in the PN Patagonia, enjoy a walk along a colorful trail experiencing the natural beauty of Patagonia. A walk ideal for all ages.",
+  
+        "infoQhAub":"Capillas de Mármol, visit one of the most iconic natural wonders of Patagonia, know its marble rock formations sculpted by water and wind for millions of years. A perfect navigation for nature and photography lovers.",
+  
+        "infoQhAuc":"Cabalgata por el Cerro Castillo, explore the trails of the PN, experience Patagonia in a unique way, with panoramic views of the snow-capped peaks and native forests.",
+  
+        "infoQhAud":"PN Queulat and Natural Hot Springs, visit the PN and discover its glaciers, forests, and waterfalls. Relax in the natural hot springs of Puyuhuapi, perfect for resting and enjoying Nature.",
+  
+        "infoQhAue":"Rafting on the Futaleufu river, live the excitement in one of the fastest rivers in South America, challenge the white waters and experience the adrenaline of nature, an ideal activity for adventure lovers.",
+  
+        "nsAu":"Our services:",
+  
+        "infoNsAua":"6-day and 5-night tour.",
+  
+        "infoNsAub":"Transfers and logistics, throughout the tour.",
+  
+        "infoNsAuc":"Accommodation and excursion reservations."
+      }
+    }
+  }
